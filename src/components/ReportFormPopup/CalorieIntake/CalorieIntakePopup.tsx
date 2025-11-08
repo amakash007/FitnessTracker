@@ -42,7 +42,7 @@ const CalorieIntakePopup: React.FC<CaloriIntakePopupProps> = ({ setShowCalorieIn
           labelFormat={"MMMM"}
           color={color}
         />
-
+//
         <TextField id="outlined-basic" label="Food item name" variant="outlined" color="warning" />
         <TextField id="outlined-basic" label="Food item amount (in gms)" variant="outlined" color="warning" />
         <div className='timebox'>
